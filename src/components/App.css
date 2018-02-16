@@ -1,0 +1,25 @@
+.App {
+  text-align: left;
+  font-family: 'Helvetica', sans-serif;
+  margin: 2em 2em;
+}
+
+.Title {
+  font-size: 4.5em;
+  font-weight: bold;
+  float: none;
+  margin: 0 auto;
+}
+
+.Instructions {
+  font-size: 1.2em;
+  text-align: center;
+}
+
+.Search{
+  text-align: center;
+}
+
+.Buttons{
+  text-align: center;
+}
